@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@4
 
-      - runs: echo "hello world"
+      - run: echo "hello world"
