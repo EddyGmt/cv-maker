@@ -13,7 +13,7 @@ jobs:
       - name: Show node version
         run: echo node -v
 
-      - name: Install depedencies
+      - name: Install dependencies
         run: npm install
 
       - name: Build the app
